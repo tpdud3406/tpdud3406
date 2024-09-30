@@ -10,7 +10,7 @@ Welcome 👋 <br>
 ✨ I'm particularly interested in Generative AI, Image Generation, LLMs, RAG, Question Answering. <br>
 😄 Please feel free to contact me at tpdud3406@naver.com <br><br>
 
-## MORE INFORMATION
+## Information
 <span>
   <a href="https://peppermint-gull-3de.notion.site/AI-Researcher-8fe541d90c014979bde705734eec1c13?pvs=4">
     <img src="https://img.shields.io/badge/Notion-000000?style=social&logo=Notion&logoColor=black"/>
@@ -20,22 +20,24 @@ Welcome 👋 <br>
   </a>
 </span> <br>
 
-## OBJECTIVE
+## Objective
 AI Research
 
-## EDUCATION
+## Education
 Master Degree of Industrial Engineering ```(03/2023 ~ 02/2025(졸업 예정))``` (Yonsei University, Seoul) <br>
 Bachelor Degree of Industrial and Information Systems Engineering ```(03/2019 ~ 02/2023)``` (Soongsil University, Seoul) <br>
 
-## ADDITIONAL SKILLS
+## Additional skiils
+### Programming Languages
 <span>
   <img src="https://img.shields.io/badge/ Python-informational?style=plastic&logo=Python&logoColor=white"/>
   <img src="https://img.shields.io/badge/ C language-blueviolet?style=plastic&logo=C&logoColor=white"/>
   <img src="https://img.shields.io/badge/ C++-00599C?style=plastic&logo=C++&logoColor=white"/>
   <img src="https://img.shields.io/badge/ R-276DC3?style=plastic&logo=R&logoColor=white"/>
 </span>
-
 <br>
+
+## Publications
 
 
 <!--
