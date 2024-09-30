@@ -14,8 +14,8 @@ Welcome 👋
 AI Research
 
 ## EDUCATION
-Master Degree of Industrial Engineering ```(03/2023 ~ 02/2025(졸업 예정))``` (Yonsei University, Seoul)
-Bachelor Degree of Industrial and Information Systems Engineering ```(03/2019 ~ 02/2023)``` (Soongsil University, Seoul)
+Master Degree of Industrial Engineering ```(03/2023 ~ 02/2025(졸업 예정))``` (Yonsei University, Seoul) <br>
+Bachelor Degree of Industrial and Information Systems Engineering ```(03/2019 ~ 02/2023)``` (Soongsil University, Seoul) <br>
 
 ## ADDITIONAL SKILLS
 <span>
