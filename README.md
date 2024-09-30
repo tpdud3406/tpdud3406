@@ -71,9 +71,6 @@ Major (Double Major): Department of Industrial and Information Systems Engineeri
   <img src="https://img.shields.io/badge/ Hugging Face-FFD21E?style=plastic&logo=Hugging Face&logoColor=black"/>
   <img src="https://img.shields.io/badge/ LangChain-1C3C3C?style=plastic&logo=LangChain&logoColor=black"/>
   <img src="https://img.shields.io/badge/ WebUI-purple?style=plastic&logo=WebUI&logoColor=black"/>
-</span>
-  <img src="https://img.shields.io/badge/ LaTeX-008080?style=plastic&logo=LaTeX&logoColor=black"/>
-</span>
   <img src="https://img.shields.io/badge/ LaTeX-008080?style=plastic&logo=LaTeX&logoColor=black"/>
 </span>
 <br>
