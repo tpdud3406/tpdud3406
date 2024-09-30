@@ -24,8 +24,11 @@ Welcome 👋 <br>
 AI Research
 
 ## Education
-Master Degree of Industrial Engineering ```(03/2023 ~ 02/2025(졸업 예정))``` (Yonsei University, Seoul) <br>
-Bachelor Degree of Industrial and Information Systems Engineering ```(03/2019 ~ 02/2023)``` (Soongsil University, Seoul) <br>
+[석사] Yonsei University, Seoul
+기간: 2023.03 ~ 2025.02 (졸업예정)
+Major: Industrial Engineering
+Lab: Smart Systems Lab
+GPA: 4.04 / 4.3
 
 ## Additional skiils
 ### Programming Languages
@@ -36,6 +39,8 @@ Bachelor Degree of Industrial and Information Systems Engineering ```(03/2019 ~ 
   <img src="https://img.shields.io/badge/ R-276DC3?style=plastic&logo=R&logoColor=white"/>
 </span>
 <br>
+
+### 
 
 ## Publications
 
