@@ -7,7 +7,7 @@ Welcome 👋 <br>
 
 🤗 I'm AI Researcher. <br>
 🌱 I'm currently in Smart Systems Lab in Yonsei University. (Professor: Wooju Kim) <br>
-✨ I'm particularly interested in Generative AI, Image Generation, LLMs, RAG, Question Answering. <br>
+✨ I'm interested in leveraging AI technology to create meaningful value. <br>
 😄 Please feel free to contact me at tpdud3406@naver.com <br><br>
 
 ## 🐶 Information
