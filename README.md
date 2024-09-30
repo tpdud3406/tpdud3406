@@ -8,7 +8,9 @@ Welcome 👋 <br>
 🤗 I'm AI Researcher <br>
 🌱 I'm currently in Smart Systems Lab in Yonsei University (Professor: Wooju Kim) <br>
 ✨ I'm particularly interested in Generative AI, Image Generation, LLMs, RAG, Question Answering. <br>
-😄 Please feel free to contact me at tpdud3406@naver.com <br>
+😄 Please feel free to contact me at tpdud3406@naver.com <br><br>
+
+## MORE INFORMATION
 <span>
   <a href="https://peppermint-gull-3de.notion.site/AI-Researcher-8fe541d90c014979bde705734eec1c13?pvs=4">
     <img src="https://img.shields.io/badge/Notion-000000?style=social&logo=Notion&logoColor=black"/>
