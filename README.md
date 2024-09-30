@@ -35,8 +35,8 @@ Lab: Smart Systems Lab <br>
 Major (Double Major): Department of Industrial and Information Systems Engineering & School of Computer Science and Engineering <br>
 
 ## 🐯 Additional skills
-### Programming Languages
 <span>
+  <strong>Programming Languages: </strong>
   <img src="https://img.shields.io/badge/ Python-informational?style=plastic&logo=Python&logoColor=white"/>
   <img src="https://img.shields.io/badge/ C language-blueviolet?style=plastic&logo=C&logoColor=white"/>
   <img src="https://img.shields.io/badge/ C++-00599C?style=plastic&logo=C++&logoColor=white"/>
@@ -44,30 +44,30 @@ Major (Double Major): Department of Industrial and Information Systems Engineeri
 </span>
 <br>
 
-### DB
 <span>
+  <strong>DataBase: </strong>
   <img src="https://img.shields.io/badge/ MySQL-4479A1?style=plastic&logo=MySQL&logoColor=black"/>
   <img src="https://img.shields.io/badge/ MongoDB-47A248?style=plastic&logo=MongoDB&logoColor=black"/>
 </span>
 <br>
 
-### Deep Learning Framework
 <span>
+  <strong>Deep Learning Framework: </strong>
   <img src="https://img.shields.io/badge/ Pytorch-EE4C2C?style=plastic&logo=Pytorch&logoColor=black"/>
   <img src="https://img.shields.io/badge/ TensorFlow-FF6F00?style=plastic&logo=TensorFlow&logoColor=black"/>
   <img src="https://img.shields.io/badge/ OpenCV-5C3EE8?style=plastic&logo=OpenCV&logoColor=black"/>
 </span>
 <br>
 
-### OS
 <span>
+  <strong>OS: </strong>
   <img src="https://img.shields.io/badge/ Linux-FCC624?style=plastic&logo=Linux&logoColor=black"/>
   <img src="https://img.shields.io/badge/ Windows-80B3FF?style=plastic&logo=Windows&logoColor=black"/>
 </span>
 <br>
 
-### etc
 <span>
+  <strong>etc: </strong>
   <img src="https://img.shields.io/badge/ Hugging Face-FFD21E?style=plastic&logo=Hugging Face&logoColor=black"/>
   <img src="https://img.shields.io/badge/ LangChain-1C3C3C?style=plastic&logo=LangChain&logoColor=black"/>
   <img src="https://img.shields.io/badge/ WebUI-purple?style=plastic&logo=WebUI&logoColor=black"/>
