@@ -30,11 +30,9 @@ Generative AI, Image Generation, Large Language Models, RAG, Question Answering
 [Master Degree] Yonsei University, Seoul ```2023.03 ~ 2025.02 (졸업예정)``` <br>
 Major: Department of Industrial Engineering <br>
 Lab: Smart Systems Lab <br>
-GPA: 4.04 / 4.3 <br>
 
 [Bachelor Degree] Soongsil University, Seoul ```2019.03 ~ 2023.02``` <br>
 Major (Double Major): Department of Industrial and Information Systems Engineering & School of Computer Science and Engineering <br>
-GPA: 3.65 / 4.50
 
 ## 🐯 Additional skills
 ### Programming Languages
