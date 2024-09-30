@@ -23,6 +23,9 @@ Welcome 👋 <br>
 ## Objective
 AI Research
 
+## Research Interest
+Generative AI, Image Generation, Large Language Models, RAG, Question Answering
+
 ## Education
 [Master Degree] Yonsei University, Seoul ```2023.03 ~ 2025.02``` <br>
 Major: Department of Industrial Engineering <br>
@@ -43,7 +46,12 @@ GPA: 3.65 / 4.50
 </span>
 <br>
 
-### 
+### DB
+<span>
+  <img src="https://img.shields.io/badge/ MySQL-4479A1?style=plastic&logo=MySQL&logoColor=black"/>
+  <img src="https://img.shields.io/badge/ MongoDB-47A248?style=plastic&logo=MongoDB&logoColor=black"/>
+</span>
+<br>
 
 ## Publications
 
