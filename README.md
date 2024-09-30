@@ -36,7 +36,7 @@ GPA: 4.04 / 4.3 <br>
 Major (Double Major): Department of Industrial and Information Systems Engineering & School of Computer Science and Engineering <br>
 GPA: 3.65 / 4.50
 
-## 🐯 Additional skiils
+## 🐯 Additional skills
 ### Programming Languages
 <span>
   <img src="https://img.shields.io/badge/ Python-informational?style=plastic&logo=Python&logoColor=white"/>
