@@ -53,6 +53,14 @@ GPA: 3.65 / 4.50
 </span>
 <br>
 
+### Deep Learning Framework
+<span>
+  <img src="https://img.shields.io/badge/ Pytorch-EE4C2C?style=plastic&logo=Pytorch&logoColor=black"/>
+  <img src="https://img.shields.io/badge/ TensorFlow-FF6F00?style=plastic&logo=TensorFlow&logoColor=black"/>
+  <img src="https://img.shields.io/badge/ OpenCV-5C3EE8?style=plastic&logo=OpenCV&logoColor=black"/>
+</span>
+<br>
+
 ## Publications
 
 
