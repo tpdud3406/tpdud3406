@@ -15,6 +15,9 @@ Welcome 👋 <br>
   <a href="https://peppermint-gull-3de.notion.site/AI-Researcher-8fe541d90c014979bde705734eec1c13?pvs=4">
     <img src="https://img.shields.io/badge/Notion-000000?style=social&logo=Notion&logoColor=black"/>
   </a>
+  <a href="www.linkedin.com/in/세영-정-389198329">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=social&logo=LinkedIn&logoColor=black"/>
+  </a>
 </span> <br>
 
 ## OBJECTIVE
