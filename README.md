@@ -89,13 +89,14 @@ GPA: 3.65 / 4.50
     - 호텔 서비스 속성별 고객 만족도 분석을 위한 속성 기반 감성분석 연구 <br>
 
 ## 🐽 Publications
+
 1. Fusion Embedding for Pose-Guided Person Image Synthesis with Diffusion Model <br>
-    - Authors: Donghwan Lee*, Kyungha Min, **Seyoung Jeong**, Kirok Kim, Jeong Jiwoo, Wooju Kim
+    - Authors: Donghwan Lee, Kyungha Min, **Seyoung Jeong**, Kirok Kim, Jeong Jiwoo, Wooju Kim
     - Journal: AAAI 2025 (The Association for the Advancement of Artificial Intelligence) (Under Review)
 2. Knowledge-Augmented Prompting Noise 필터링 전략 : Large Language Models을 활용한 KGQA의 성능 향상을 중심으로
-    - Authors:  **Seyoung Jeong***, Daeshik Kim, Wooyoung Kim, Wooju Kim
+    - Authors:  **Seyoung Jeong**, Daeshik Kim, Wooyoung Kim, Wooju Kim
     - Journal: 지능정보연구 JIIS 2024 (Journal of Intelligence and Information Systems)
-3. KcBERT를 활용한 한국어 악플 탐지 분석 및 개선방안 연구 (2023)
+3. KcBERT를 활용한 한국어 악플 탐지 분석 및 개선방안 연구
     - Authors: **Seyoung Jeong**, Byeongjin Kim, Daeshik Kim, Wooyoung Kim, Taeyong Kim, Hyunsoo Yoon, Wooju Kim
     - Journal:  한글 및 한국어 정보처리 학술대회 HCLT 2023 (Human and Cognitive Language Technology)
    
