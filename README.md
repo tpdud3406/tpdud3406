@@ -1,7 +1,7 @@
 Seyoung Jeong 👋
 
-- 😄 I'm AI Researcher
-- 🌱 I'm currently in Smart Systems Lab in Yonsei University (Professor: Wooju Kim)
+😄 I'm AI Researcher
+🌱 I'm currently in Smart Systems Lab in Yonsei University (Professor: Wooju Kim)
 
 
 <!--
