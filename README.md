@@ -1,9 +1,8 @@
 Seyoung Jeong 👋
 
 - 😄 I'm AI Researcher
-- I'm currently in Smart Systems Lab in Yonsei University (Professor: Wooju Kim)
-- 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tpdud3406)](https://github.com/anuraghazra/github-readme-stats)
+- 🌱 I'm currently in Smart Systems Lab in Yonsei University (Professor: Wooju Kim)
+
 
 <!--
 **tpdud3406/tpdud3406** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
