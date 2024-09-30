@@ -21,8 +21,8 @@ Bachelor Degree of Industrial and Information Systems Engineering ```(03/2019 ~ 
 <span>
   <img src="https://img.shields.io/badge/ Python-informational?style=plastic&logo=Python&logoColor=white"/>
   <img src="https://img.shields.io/badge/ C language-blueviolet?style=plastic&logo=C&logoColor=white"/>
-  <img src="https://img.shields.io/badge/ C++-00599C?style=plastic&logo=C++&logoColor=00599C"/>
-  <img src="https://img.shields.io/badge/ R-276DC3?style=plastic&logo=R&logoColor=276DC3"/>
+  <img src="https://img.shields.io/badge/ C++-00599C?style=plastic&logo=C++&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ R-276DC3?style=plastic&logo=R&logoColor=white"/>
 </span>
 
 <span>
