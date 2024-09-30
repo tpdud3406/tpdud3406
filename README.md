@@ -1,4 +1,4 @@
-<div align="center">
+<div align="left">
 <!-- Header banner -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=100&section=header&text=&fontSize=0" width="100%"/>
 <br><br>
@@ -10,6 +10,20 @@ Welcome 👋
 ✨ I'm particularly interested in Generative AI, Image Generation, LLMs, RAG, Question Answering. <br>
 😄 Please feel free to contact me at tpdud3406@naver.com <br>
 
+## OBJECTIVE
+AI Research
+
+## EDUCATION
+Master Degree of Industrial Engineering ```(03/2023 ~ 02/2025(졸업 예정))``` (Yonsei University, Seoul)
+Bachelor Degree of Industrial and Information Systems Engineering ```(03/2019 ~ 02/2023)``` (Soongsil University, Seoul)
+
+## ADDITIONAL SKILLS
+<span>
+  <img src="https://img.shields.io/badge/ Python-informational?style=plastic&logo=Python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ C language-blueviolet?style=plastic&logo=C&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ C++-00599C?style=plastic&logo=C++&logoColor=00599C"/>
+  <img src="https://img.shields.io/badge/ R-276DC3?style=plastic&logo=R&logoColor=276DC3"/>
+</span>
 
 <span>
   <img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=Python&logoColor=#3776AB"/>
