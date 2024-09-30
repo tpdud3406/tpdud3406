@@ -1,15 +1,10 @@
-Seyoung Jeong 👋
+Welcome 👋
 
-- 😄 I'm AI Researcher
-- 🌱 I'm currently in Smart Systems Lab in Yonsei University (Professor: Wooju Kim)
+🤗 I'm AI Researcher <br>
+🌱 I'm currently in Smart Systems Lab in Yonsei University (Professor: Wooju Kim) <br>
+✨ I'm particularly interested in Generative AI, Image Generation, LLMs, RAG, Question Answering. <br>
+😄 Please feel free to contact me at tpdud3406@naver.com <br>
 
-
-<div align="left">
-Hi! 🤗 My name is Seyoung Jeong, and I’m currently in Smart Systems Lab in Yonsei University (Professor : Wooju Kim) <br>
-I am particularly interested in Generative AI, Image Generation, LLMs, RAG, Question Answering. <br>
-Please feel free to contact me at tpdud3406@naver.com 
-</div>
-<br><br>
 
 <span>
   <img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=Python&logoColor=#3776AB"/>
