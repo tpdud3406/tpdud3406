@@ -3,7 +3,7 @@ Seyoung Jeong 👋
 - 😄 I'm AI Researcher
 - 🌱 I'm currently in Smart Systems Lab in Yonsei University (Professor: Wooju Kim)
 
-<img src="https://img.shields.io/badge/Python-hexcode#3776AB?style=plastic&logo=Python&logoColor=#3776AB"/>
+<img src="https://img.shields.io/badge/Python-#3776AB?style=plastic&logo=Python&logoColor=#3776AB"/>
 
 <span>
   <a href="https://peppermint-gull-3de.notion.site/AI-Researcher-8fe541d90c014979bde705734eec1c13?pvs=4">
