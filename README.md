@@ -27,7 +27,7 @@ AI Research
 Generative AI, Image Generation, Large Language Models, RAG, Question Answering
 
 ## 🐰 Education
-[Master Degree] Yonsei University, Seoul ```2023.03 ~ 2025.02``` <br>
+[Master Degree] Yonsei University, Seoul ```2023.03 ~ 2025.02 (졸업예정)``` <br>
 Major: Department of Industrial Engineering <br>
 Lab: Smart Systems Lab <br>
 GPA: 4.04 / 4.3 <br>
