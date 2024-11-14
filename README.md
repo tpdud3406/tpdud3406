@@ -84,7 +84,7 @@ Major (Double Major): Department of Industrial and Information Systems Engineeri
 
 1. Fusion Embedding for Pose-Guided Person Image Synthesis with Diffusion Model <br>
     - Authors: Donghwan Lee, Kyungha Min, **Seyoung Jeong**, Kirok Kim, Jeong Jiwoo, Wooju Kim
-    - Journal: SCI Under Review
+    - Journal: AAAI 2025
 2. Knowledge-Augmented Prompting Noise 필터링 전략 : Large Language Models을 활용한 KGQA의 성능 향상을 중심으로
     - Authors:  **Seyoung Jeong**, Daeshik Kim, Wooyoung Kim, Wooju Kim
     - Journal: 지능정보연구 JIIS 2024 (Journal of Intelligence and Information Systems)
